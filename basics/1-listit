@@ -1,4 +1,2 @@
 #!/bin/bash
--rwxr--r-- 1 root root 16 May 18 10:43 0-current_working_directory
--rw-r--r-- 1 root root 61 May 19 11:56 1-listit
--rw-r--r-- 1 root root  3 May 18 10:29 README.md
+0-current_working_directory  1-listit  README.md
