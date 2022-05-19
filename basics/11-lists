@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /shell /shell/basics /boot 
+ls -a /shell/basics 
