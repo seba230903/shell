@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /shell/io_redirections_and_filters
+ls -t | head
