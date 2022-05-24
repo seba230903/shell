@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl +10 /shell/io_redirections_and_filters
+ls --sort=time /shell/io_redirections_and_filters
