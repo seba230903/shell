@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl /shell/io_redirections_and_filters
+ls -tl +10 /shell/io_redirections_and_filters
