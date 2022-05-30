@@ -1,0 +1,12 @@
+#!/usr/bin/env  bash
+#hola
+c=10
+while [ $c -gt 0 ];
+do 
+	echo Best School
+	if [[ $c -eq 2 ]]
+	then 
+		echo Hi
+	fi 
+	c=$((c-1))
+done
