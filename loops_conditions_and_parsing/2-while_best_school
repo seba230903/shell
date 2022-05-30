@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#hola
+c=10
+while [ $c -gt 0 ];
+do
+		echo Best School
+	c=$((c-1))
+done
