@@ -2,13 +2,13 @@
 #hola
 for (( c=1; c < 101; c++ ))
 do
-	if ((%15 == 0 ))
+	if [ %15 == 0 ]
 	then
 		echo FizzBuzz
-	elif (( c%3 == 0 ))
+	elif [ c%3 == 0 ]
 	then
 		echo Fizz
-	elif (( c%5 == 0 ))
+	elif [ c%5 == 0 ]
 	then
 		echo Buzz
 	else
