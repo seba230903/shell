@@ -3,7 +3,7 @@
 c=10
 while [ $c -gt 0 ];
 do
-	if [[ $c -eq 7 ]]
+	if [[ $c -eq 3 ]]
 	then
 		echo good luck 
 	elif [[ $c -eq 7 ]]
