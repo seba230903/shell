@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #hola
 d="/etc/passwd"
-while IFS=: read -r u gID Di CS uID pswd uIDi   
+while IFS=: read -r u IDg Di CS IDu c IDiu   
 do
 
-	echo "The user $u is part of the $gID gang, lives in $Di and rides $CS. $uID place is protected by the passcode $pswd, more info about the user here: $uIDi"
+	echo "The user $u is part of the $IDg gang, lives in $Di and rides $CS. $IDu's place is protected by the passcode $c, more info about the user here: $IDiu"
 
 done < "$d"
