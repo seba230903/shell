@@ -10,10 +10,12 @@ then
 	else
 		echo school file is empty
 	fi
+
 	if [[ -f "$s" ]]
 	then
 		echo school is a regular filr
 	fi
+
 else 
 	echo school file does not exist
 fi
