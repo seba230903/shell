@@ -13,7 +13,7 @@ then
 
 	if [[ -f "$s" ]]
 	then
-		echo school is a regular filr
+		echo school is a regular file
 	fi
 
 else 
