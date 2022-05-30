@@ -2,7 +2,7 @@
 #hola
 for (( c=1; c < 101; c++ ))
 do
-	if (( %15 == 0 ))
+	if (( c%15 == 0 ))
 	then
 		echo FizzBuzz
 	elif (( c%3 == 0 ))
