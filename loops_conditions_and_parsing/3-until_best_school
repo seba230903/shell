@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #hola
 c=1
-until [ $c -lt 10 ];
+until [ 10 -lt $c ];
 do 
 	echo Best School
 	c=$((c+1))
