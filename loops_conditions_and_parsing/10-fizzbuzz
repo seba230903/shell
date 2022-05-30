@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #hola
-for (( c=1< c < 101< c++ ))
+for (( c=1; c < 101; c++ ))
 do
 	if ((%15 == 0 ))
 	then
