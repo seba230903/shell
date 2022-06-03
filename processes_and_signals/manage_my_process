@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#hola
+while true 
+do
+	echo I am alive! > /tmp/my_process
+done
